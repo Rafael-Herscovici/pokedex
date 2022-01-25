@@ -1,2 +1,2 @@
-# pokedex
+# Pokedex
 Fun Pokémon translator
